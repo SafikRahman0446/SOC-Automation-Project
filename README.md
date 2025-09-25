@@ -37,3 +37,6 @@ SOC Automation Project – An end-to-end Security Operations Center (SOC) automa
 - **Scan suspicious files/URLs with VirusTotal integration.**
   
 - **Send email to Analyst.**
+
+
+
