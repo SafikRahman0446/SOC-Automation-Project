@@ -35,3 +35,5 @@ SOC Automation Project – An end-to-end Security Operations Center (SOC) automa
 - **Check incident tickets in TheHive automatically created by Shuffle playbooks.**
 
 - **Scan suspicious files/URLs with VirusTotal integration.**
+  
+- **Send email to Analyst.**
