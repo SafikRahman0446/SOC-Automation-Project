@@ -30,8 +30,8 @@ SOC Automation Project – An end-to-end Security Operations Center (SOC) automa
      
 ## Usage
 
-**Monitor logs and alerts in real-time.**
+- **Monitor logs and alerts in real-time.**
 
-**Check incident tickets in TheHive automatically created by Shuffle playbooks.**
+- **Check incident tickets in TheHive automatically created by Shuffle playbooks.**
 
-**Scan suspicious files/URLs with VirusTotal integration.**
+- **Scan suspicious files/URLs with VirusTotal integration.**
