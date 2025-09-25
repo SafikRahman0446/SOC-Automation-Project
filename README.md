@@ -28,3 +28,10 @@ SOC Automation Project – An end-to-end Security Operations Center (SOC) automa
    - If malicious → **Case is created in TheHive** for incident investigation.
    - **Email Notification** is sent to SOC team with details.
      
+## Usage
+
+**Monitor logs and alerts in real-time.**
+
+**Check incident tickets in TheHive automatically created by Shuffle playbooks.**
+
+**Scan suspicious files/URLs with VirusTotal integration.**
